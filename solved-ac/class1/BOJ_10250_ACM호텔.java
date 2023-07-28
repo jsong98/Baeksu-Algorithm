@@ -1,4 +1,4 @@
-package Junseok.solvedac;
+package Junseok.solvedac.class1;
 
 import java.util.Scanner;
 
